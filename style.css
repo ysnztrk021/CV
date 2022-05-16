@@ -1,0 +1,61 @@
+body{
+    background: rgb(25,25,25);
+    color:white;
+}
+
+/* Title Block */
+
+.self-present{
+    padding-bottom: 5px;
+    border-bottom: 1px solid white;
+}
+
+/* Blocks */
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(3,400px);
+}
+
+
+/* TITLES */
+
+h1{
+    color:bisque
+}
+
+/* TEXTS */
+
+p{
+    margin: 5px;
+}
+
+.biography p{
+    font-size: 30px;
+}
+
+.experience p{
+    font-size: 20px;
+}
+
+span{
+    color:rgb(83, 83, 83);
+}
+
+a{
+    margin-left: 5px;
+    font-size: 20px;
+    text-decoration:none;
+    color:cadetblue;
+}
+
+a:hover{
+    color:gold;
+}
+
+/* LISTS */
+
+li{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
