@@ -24,6 +24,10 @@ h1{
     color:bisque
 }
 
+.biography h1{
+    margin-bottom: 3px;
+}
+
 /* TEXTS */
 
 p{
